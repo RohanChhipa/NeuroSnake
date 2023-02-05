@@ -2,8 +2,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake.Engine", "src\Snake.Engine\Snake.Engine.csproj", "{F943B6FE-80A6-41EE-8DAB-F059FBB25B04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake.Player.Interface", "src\Snake.Player.Interface\Snake.Player.Interface.csproj", "{1C9AD337-2B1C-4701-B1F3-178042814AE7}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Runner", "Runner\Runner.csproj", "{4521A892-5CBB-4AD1-B66D-2B50056DF474}"
 EndProject
 Global
@@ -16,10 +14,6 @@ Global
 		{F943B6FE-80A6-41EE-8DAB-F059FBB25B04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F943B6FE-80A6-41EE-8DAB-F059FBB25B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F943B6FE-80A6-41EE-8DAB-F059FBB25B04}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1C9AD337-2B1C-4701-B1F3-178042814AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1C9AD337-2B1C-4701-B1F3-178042814AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1C9AD337-2B1C-4701-B1F3-178042814AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1C9AD337-2B1C-4701-B1F3-178042814AE7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4521A892-5CBB-4AD1-B66D-2B50056DF474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4521A892-5CBB-4AD1-B66D-2B50056DF474}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4521A892-5CBB-4AD1-B66D-2B50056DF474}.Release|Any CPU.ActiveCfg = Release|Any CPU
